@@ -6,6 +6,9 @@
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2409.10063)
   
   <img src="./resources/globalmapnet_structure.png" width="950px">
+
+https://github.com/user-attachments/assets/eb3899f6-fc8a-4c5e-8d1f-1e299c708433
+
 </div>
 
 ## Introduction
