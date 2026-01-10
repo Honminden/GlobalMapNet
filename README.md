@@ -139,7 +139,7 @@ see [fixes_and_notices](./fixes_and_notices.md) (updated 20240927)
 | Range | Method | $\mathrm{AP}_{road}$ | $\mathrm{AP}_{lane}$| $\mathrm{AP}_{ped}$ | $\mathrm{mAP}$ | $\mathrm{GAP}_{road}$ | $\mathrm{GAP}_{lane}$| $\mathrm{GAP}_{ped}$ | $\mathrm{mGAP}$ | Config | Epoch | Checkpoint |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | $60\times 30\ m$ | StreamMapNet| 42.4 | 28.7 | 27.4 | 32.9 | 12.8 | 13.4 | 15.5 | 13.9 | [Config](./plugin/configs/nusc_newsplit_480_60x30_24e_stream.py) | 24| [ckpt](https://huggingface.co/hdtr/GlobalMapNet-public/blob/main/streammapnet_nusc_60x30.pth)|
-| $60\times 30\ m$ | GlobalMapNet| 43.4 | 31.8 | 29.3 | 34.8 | 18.0 | 16.3 | 18.5 | 17.6 | [Config](./plugin/configs/nusc_newsplit_480_100x50_24e_global_eval.py) | 24| [ckpt](https://huggingface.co/hdtr/GlobalMapNet-public/blob/main/globalmapnet_nusc_100x50.pth)|
+| $60\times 30\ m$ | GlobalMapNet| 43.4 | 31.8 | 29.3 | 34.8 | 18.0 | 16.3 | 18.5 | 17.6 | [Config](./plugin/configs/nusc_newsplit_480_60x30_24e_global_eval.py) | 24| [ckpt](https://huggingface.co/hdtr/GlobalMapNet-public/blob/main/globalmapnet_nusc_100x50.pth)|
 | $100\times 50\ m$ | StreamMapNet| 26.3 | 21.4 | 25.8 | 24.5 | 6.0 | 10.2 | 13.4 | 9.9 | [Config](./plugin/configs/nusc_newsplit_480_100x50_24e_stream.py) | 24| [ckpt](https://huggingface.co/hdtr/GlobalMapNet-public/blob/main/streammapnet_nusc_100x50.pth)|
 | $100\times 50\ m$ | GlobalMapNet| 25.8 | 21.2 | 25.5 | 24.2 | 6.4 | 10.2 | 20.4 | 12.3 | [Config](./plugin/configs/nusc_newsplit_480_100x50_24e_global_eval.py) | 24| [ckpt](https://huggingface.co/hdtr/GlobalMapNet-public/blob/main/globalmapnet_nusc_100x50.pth)|
 
